@@ -55,7 +55,7 @@ body{
 h2 a:link, h2 a:visited {
   background-color: white;
   color: black;
-  border: 2px solid green;
+  border: 2px solid black;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -63,6 +63,6 @@ h2 a:link, h2 a:visited {
 }
 
 h2 a:hover, h2 a:active {
-  background-color: green;
+  background-color: black;
   color: white;
 }
