@@ -51,3 +51,18 @@ body{
   color: black;
   background-color: #FDD475;
 }
+
+h2 a:link, h2 a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+h2 a:hover, h2 a:active {
+  background-color: green;
+  color: white;
+}
