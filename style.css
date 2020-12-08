@@ -2,6 +2,12 @@ title {
   color: black;
 }
 
+html{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  height: 100%;
+
+}
+
 li {
   float: right;
 }
